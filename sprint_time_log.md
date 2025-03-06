@@ -26,12 +26,19 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|   1/27   |   12:45  |   ID   |   Project planning, starting research, and |      60     |
+|   1/27   |   12:45  |   IM   |   Project planning, starting research, and |      60     |
 |          |          |        |   environment setup.                       |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|   1/27   |   16:30  |   TP   |   Setup Godot Environment                  |      30     |
+|   1/28   |   12:45  |  MTG   |   Research into Godot multiplayer methods  |      60     |
+|   1/29   |   12:45  |   IM   |   Research into MC modding environment     |      60     |
+|   1/30   |   12:45  |   TP   |   More research into GODOT and Webhooks    |      60     |
+|   2/01   |   10:30  |   IP   |   Learning basics of Java                  |     120     |
+|   2/04   |   12:45  |  MTG   |   Research into godot webhook integration  |      60     |
+|   2/04   |   15:00  |   IM   |   Contemplating Sprint Project/ Gradlew    |      60     |
+|   2/06   |   12:45  |  MTG   |   Research into godot webhook integration  |     120     |
+|   2/06   |   14:00  |   TP   |   Reverse engineering Godot Webhook demo   |     120     |
+|   2/08   |   11:00  |   IM   |   Life or death batlle w/ c++              |     300     |
+|   2/09   |   12:45  |   IM   |   More c++ debugging for numerical model   |     360     |
 
 _Note: Add more rows as needed._
 
@@ -39,7 +46,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
+|IM - IndivIMual Module         |                          |
 |TP - Team Project              |                          |
 |MTG - Class Meetings           |                          |
 |**TOTAL**                      |                          |
