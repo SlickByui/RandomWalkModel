@@ -46,7 +46,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - IndivIMual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
+|IM - IndivIMual Module         |            16:00         |
+|TP - Team Project              |            03:30         |
+|MTG - Class Meetings           |            04:00         |
 |**TOTAL**                      |                          |
